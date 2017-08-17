@@ -53,17 +53,29 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bidirection\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bidirection\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bidirection\HelloWorldBidirectionService.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Bidirection\HelloWorldBidirectionClient.cs" />
+    <Compile Include="Bidirection\HelloWorldBidirectionServer.cs" />
     <Compile Include="HelloWorldClient.cs" />
     <Compile Include="HelloWorldServer.cs" />
     <Compile Include="HelloWorldService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Bidirection\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

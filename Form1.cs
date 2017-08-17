@@ -69,5 +69,11 @@ namespace Thrift_HelloWorld_CSharp
         {
             HelloWorldServer.Run(SrvPort);
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Bidirection.Form1 form = new Bidirection.Form1();
+            form.Show();
+        }
     }
 }

@@ -2,9 +2,9 @@ D:\sample\Thrift_Cpp_CSharp_Demo\Thrift_HelloWorld_CSharp\bin\Debug\Thrift_Hello
 D:\sample\Thrift_Cpp_CSharp_Demo\Thrift_HelloWorld_CSharp\bin\Debug\Thrift_HelloWorld_CSharp.exe
 D:\sample\Thrift_Cpp_CSharp_Demo\Thrift_HelloWorld_CSharp\bin\Debug\Thrift_HelloWorld_CSharp.pdb
 D:\sample\Thrift_Cpp_CSharp_Demo\Thrift_HelloWorld_CSharp\bin\Debug\Thrift.dll
-D:\sample\Thrift_Cpp_CSharp_Demo\Thrift_HelloWorld_CSharp\obj\Debug\Thrift_HelloWorld_CSharp.csprojResolveAssemblyReference.cache
 D:\sample\Thrift_Cpp_CSharp_Demo\Thrift_HelloWorld_CSharp\obj\Debug\Thrift_HelloWorld_CSharp.Form1.resources
 D:\sample\Thrift_Cpp_CSharp_Demo\Thrift_HelloWorld_CSharp\obj\Debug\Thrift_HelloWorld_CSharp.Properties.Resources.resources
 D:\sample\Thrift_Cpp_CSharp_Demo\Thrift_HelloWorld_CSharp\obj\Debug\Thrift_HelloWorld_CSharp.csproj.GenerateResource.Cache
 D:\sample\Thrift_Cpp_CSharp_Demo\Thrift_HelloWorld_CSharp\obj\Debug\Thrift_HelloWorld_CSharp.exe
 D:\sample\Thrift_Cpp_CSharp_Demo\Thrift_HelloWorld_CSharp\obj\Debug\Thrift_HelloWorld_CSharp.pdb
+D:\sample\Thrift_Cpp_CSharp_Demo\Thrift_HelloWorld_CSharp\obj\Debug\Thrift_HelloWorld_CSharp.Bidirection.Form1.resources
